@@ -1,9 +1,0 @@
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.deps.json
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.dll
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.pdb
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.csproj.CoreCompileInputs.cache
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.dll
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\refint\Mir.Serialization.dll
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.pdb
-C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\ref\Mir.Serialization.dll
