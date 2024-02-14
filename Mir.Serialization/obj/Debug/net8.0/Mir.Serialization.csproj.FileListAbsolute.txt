@@ -7,3 +7,13 @@ C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serializati
 C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\refint\Mir.Serialization.dll
 C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.pdb
 C:\Users\Haldun Altuntop\HBF\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\ref\Mir.Serialization.dll
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.deps.json
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.dll
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\bin\Debug\net8.0\Mir.Serialization.pdb
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.sourcelink.json
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.dll
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\refint\Mir.Serialization.dll
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\Mir.Serialization.pdb
+C:\Users\NİRVANA\Desktop\HB2FT\Alp\Mir.Serialization\Mir.Serialization\Mir.Serialization\obj\Debug\net8.0\ref\Mir.Serialization.dll
