@@ -23,7 +23,7 @@ namespace Mir.Serialization
 
         public static SavedGame Create(int cameraYAxisOffset, float playerX, float playerY, bool serialize)
         {
-            Header header = new Header();
+            Header header = new Header(Header.MAGIC_NUMBER);
             Data data = new Data(cameraYAxisOffset, playerX, playerY);
             SavedGame savedGame = new SavedGame(header, data);
 
@@ -47,7 +47,7 @@ namespace Mir.Serialization
             const float defaultPlayerX = 0f;
             const float defaultPlayerY = 0f;
 
-            Header header = new Header();
+            Header header = new Header(Header.MAGIC_NUMBER);
             Data data = new Data(defaultCameraYAxisOffset, defaultPlayerX, defaultPlayerY);
             SavedGame savedGame = new SavedGame(header, data);
 
@@ -111,22 +111,17 @@ namespace Mir.Serialization
             // Private variables
             private readonly int magicNumber;
 
-            public Header()
-            {
-                this.magicNumber = MAGIC_NUMBER;
-            }
-
             public Header(int magicNumber)
             {
                 if (magicNumber != MAGIC_NUMBER)
                 {
-                    throw new System.Exception("Magic number was different.");
+                    throw new System.Exception("Magic number was different: " + magicNumber + "(Expected: " + MAGIC_NUMBER + ")");
                 }
 
                 this.magicNumber = magicNumber;
             }
 
-            public readonly int MagicNumber
+            public int MagicNumber
             {
                 get
                 {
@@ -149,7 +144,7 @@ namespace Mir.Serialization
                 this.playerY = playerY;
             }
 
-            public readonly int CameraYAxisOffset
+            public int CameraYAxisOffset
             {
                 get
                 {
@@ -157,7 +152,7 @@ namespace Mir.Serialization
                 }
             }
 
-            public readonly float PlayerX
+            public float PlayerX
             {
                 get
                 {
@@ -165,7 +160,7 @@ namespace Mir.Serialization
                 }
             }
 
-            public readonly float PlayerY
+            public float PlayerY
             {
                 get
                 {

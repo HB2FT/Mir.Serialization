@@ -38,7 +38,7 @@ namespace Mir.Serialization.Utility
 
         public float ReadFloat()
         {
-            return BitConverter.UInt32BitsToSingle((uint)ReadInt());
+            return (float) BitConverter.Int64BitsToDouble((uint)ReadInt());
         }
     }
 }

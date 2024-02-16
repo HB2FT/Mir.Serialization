@@ -17,10 +17,10 @@ namespace Mir.Serialization.Utility
 
         public void WriteInt(int value)
         {
-            fs.WriteByte((byte)((value >>> 24) & 0xFF));
-            fs.WriteByte((byte)((value >>> 16) & 0XFF));
-            fs.WriteByte((byte)((value >>> 8) & 0xFF));
-            fs.WriteByte((byte)((value >>> 0) & 0xFF));
+            fs.WriteByte((byte)((value >> 24) & 0xFF));
+            fs.WriteByte((byte)((value >> 16) & 0XFF));
+            fs.WriteByte((byte)((value >> 8) & 0xFF));
+            fs.WriteByte((byte)((value >> 0) & 0xFF));
         }
 
         public void WriteBoolean(bool value)
@@ -30,7 +30,8 @@ namespace Mir.Serialization.Utility
 
         public void WriteFloat(float value)
         {
-            WriteInt(BitConverter.SingleToInt32Bits(value));
+            //WriteInt(BitConverter.SingleToInt32Bits(value));
+            WriteInt((int)BitConverter.DoubleToInt64Bits(value));
         }
     }
 }

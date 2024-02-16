@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XDj/BKSUfiLZgtLgkY5PJSOI7qr6sIbq+DcWaHdA7B0hEvBHzJRPpOOXr+2CQGcvFbCeMjcXUlicYaA1s/iIXA==",
+  "dgSpecHash": "Uv9hbqyBBRJzmLNOuD/pL+4U8LWs1dZqEJYGgEdQLinsrPut1HOrzjmMZg+bdQccKDemZ0PI4zY7WvDIRNPwXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NİRVANA\\Desktop\\HB2FT\\Alp\\Mir.Serialization\\Mir.Serialization\\Mir.Serialization\\Mir.Serialization.csproj",
+  "projectFilePath": "C:\\Users\\Haldun Altuntop\\HBF\\Mir.Serialization\\Mir.Serialization\\Mir.Serialization.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\NİRVANA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\NİRVANA\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\Haldun Altuntop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Haldun Altuntop\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
